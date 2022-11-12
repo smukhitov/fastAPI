@@ -1,2 +1,2 @@
 # fastAPI
-API Development with FastAPI, SQLAlchemy, Alembic, PostgreSQL, Uvicorn and Docker. 
+API Development with Python framework - FastAPI, SQLAlchemy, Alembic, PostgreSQL, Uvicorn and Docker. 
